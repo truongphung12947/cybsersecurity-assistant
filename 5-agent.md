@@ -201,7 +201,7 @@ Open the **Chat** tab and test the agent with the following prompts:
 | `Who has logged in during the last 3 days?` | Searches user login logs in Microsoft Sentinel |
 | `How many endpoint devices do we have in our tenant?` | Searches device information in Microsoft Defender for Endpoint |
 | `Analyze and summarize the latest alert` | Combines multiple tools to retrieve and summarize alert data |
-| `Draft an alert summary report` | Generates a structured alert summary report using retrieved findings and knowledge|
+| `Draft an alert summary report for our latest alert` | Generates a structured alert summary report using retrieved findings and knowledge|
 
 ---
 

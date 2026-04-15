@@ -361,6 +361,7 @@ Output mode:               Extractive data
 - [ ] Knowledge Base connected to Foundry IQ
 - [ ] Knowledge Base saved successfully
 
+---
 ## Next Steps
 
 We built a knowledge base for our agent. Let's move on to how to build an actual agent:
@@ -369,4 +370,4 @@ We built a knowledge base for our agent. Let's move on to how to build an actual
 
 ---
 
-[← Previous: 03. Models and Deployment](./3-model.md) | [Home](./README.md) | [Next: Agent Development →](./5-agent.md)
+[← Previous: 03. Models and Deployment](./3-model.md) | [Home](./README.md) | [Next: 05. Agent Development →](./5-agent.md)

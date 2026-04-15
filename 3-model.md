@@ -152,4 +152,4 @@ Model deployment is complete! Now let's build Knowledge base for our agent:
 
 ---
 
-[← Previous: Environment Setup](./1-environment.md) | [Home](./README.md) | [Next: Foundry IQ →](./4-foundry-iq.md)
+[← Previous: 01. Environment Setup](./1-environment.md) | [Home](./README.md) | [Next: 04. Foundry IQ →](./4-foundry-iq.md)
