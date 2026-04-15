@@ -146,10 +146,10 @@ Embedding models convert text into vectors, enabling semantic search and similar
 
 ## Next Steps
 
-Model deployment is complete! Now let's use these models to build agents:
+Model deployment is complete! Now let's build Knowledge base for our agent:
 
-➡️ **[04. Agent Development](./03-agents.md)**: Create AI agents with various capabilities.
+➡️ **[04. Foundry IQ](./4-foundry-iq.md)**: Create knowledge base using CosmosDB and Azure AI Search.
 
 ---
 
-[← Previous: Environment Setup](./2-sentinel-optional.md) | [Home](./README.md) | [Next: Agent Development →](./4-agent.md)
+[← Previous: Environment Setup](./1-environment.md) | [Home](./README.md) | [Next: Foundry IQ →](./4-foundry-iq.md)

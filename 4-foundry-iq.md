@@ -360,3 +360,13 @@ Output mode:               Extractive data
 - [ ] AI Search index created and documents indexed
 - [ ] Knowledge Base connected to Foundry IQ
 - [ ] Knowledge Base saved successfully
+
+## Next Steps
+
+We built a knowledge base for our agent. Let's move on to how to build an actual agent:
+
+➡️ **[05. Agent Development](./5-agent.md)**: Create AI agents with various capabilities.
+
+---
+
+[← Previous: 03. Models and Deployment](./3-model.md) | [Home](./README.md) | [Next: Agent Development →](./5-agent.md)
