@@ -54,30 +54,30 @@ Before starting this workshop, ensure you have the following:
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│                  Microsoft Foundry                   │
-│                                                      │
+│                  Microsoft Foundry                  │
+│                                                     │
 │   ┌─────────────┐        ┌──────────────────────┐   │
-│   │   Model     │        │      Foundry IQ       │   │
-│   │  (GPT-5.2)  │        │  (Knowledge Base)     │   │
+│   │   Model     │        │      Foundry IQ       │  │
+│   │  (GPT-5.2)  │        │  (Knowledge Base)     │  │
 │   └─────────────┘        └──────────────────────┘   │
-│          │                          │                │
-│          └──────────┬───────────────┘                │
-│                     ▼                                │
-│         ┌───────────────────────┐                    │
-│         │  Cybersecurity Agent  │                    │
+│          │                          │               │
+│          └──────────┬───────────────┘               │
+│                     ▼                               │
+│         ┌───────────────────────┐                   │
+│         │  Cybersecurity Agent  │                   │
 │         └───────────────────────┘                   │
-│                     │                                │
+│                     │                               │
 │       ┌─────────────┼─────────────┐                 │
-│       ▼             ▼             ▼                  │
-│  SentinelMCP    EntraMCP       MDEMCP                │
-│  (Sentinel)   (Entra ID)   (Defender)                │
+│       ▼             ▼             ▼                 │
+│  SentinelMCP    EntraMCP       MDEMCP               │
+│  (Sentinel)   (Entra ID)   (Defender)               │
 └─────────────────────────────────────────────────────┘
          │
          ▼
 ┌─────────────────┐      ┌─────────────────┐
-│ Azure AI Search │      │    CosmosDB      │
-│    (Indexing)   │◄─────│  (Knowledge      │
-│                 │      │    Base Data)    │
+│ Azure AI Search │      │    CosmosDB     │
+│    (Indexing)   │◄─────│  (Knowledge     │
+│                 │      │    Base Data)   │
 └─────────────────┘      └─────────────────┘
 
 ```
