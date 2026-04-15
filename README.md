@@ -57,8 +57,8 @@ Before starting this workshop, ensure you have the following:
 │                  Microsoft Foundry                  │
 │                                                     │
 │   ┌─────────────┐        ┌──────────────────────┐   │
-│   │   Model     │        │      Foundry IQ       │  │
-│   │  (GPT-5.2)  │        │  (Knowledge Base)     │  │
+│   │   Model     │        │      Foundry IQ      │   │
+│   │  (GPT-5.2)  │        │  (Knowledge Base)    │   │
 │   └─────────────┘        └──────────────────────┘   │
 │          │                          │               │
 │          └──────────┬───────────────┘               │
