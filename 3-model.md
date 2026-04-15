@@ -49,7 +49,7 @@ You can explore various AI models in the Discover section of the Foundry portal.
    ![Model Leaderboard screen](assets/3_3.png)
 
 3. **Understand Model Categories**
-   - **Language Models**: GPT-5.1, GPT-5, Claude, etc.
+   - **Language Models**: GPT-5.2, GPT-5, Claude, etc.
    - **Embedding Models**: text-embedding-3-large, text-embedding-ada-002, etc.
 
 ### 💡 Tips
@@ -65,27 +65,27 @@ You can explore various AI models in the Discover section of the Foundry portal.
 
 1. **Use Model Comparison Feature**
    - Click the **Compare models** button on the Models page.
-   - Select the models you want to compare (e.g., GPT-5.1, GPT-5, Claude 4.5 Sonnet).
+   - Select the models you want to compare (e.g., GPT-5.2, GPT-5, Claude 4.5 Sonnet).
    - Compare performance, cost, and features.
    
    ![Compare models feature](assets/3_4.png)
 
-2. **Select and Deploy GPT-5.1**
+2. **Select and Deploy GPT-5.2**
    - Find **gpt-5.2** in the model list.
    - Click `View details` to view detailed information.
    
-   ![GPT-5.1 model card](assets/3_5.png)
+   ![GPT-5.2 model card](assets/3_5.png)
 
-   ![GPT-5.1 model detail](assets/3_6.png)
+   ![GPT-5.2 model detail](assets/3_6.png)
 
 3. **Deployment Configuration**
    - Click `Deploy` to view detailed information.
 
-   ![GPT-5.1 model deploy](assets/3_7.png)
+   ![GPT-5.2 model deploy](assets/3_7.png)
 
    - Click `Default settings` to deploy model with default settings.
 
-   ![GPT-5.1 model deploy](assets/3_8.png)
+   ![GPT-5.2 model deploy](assets/3_8.png)
 
 4. **Complete Deployment**
    - Click **Default settings** to start deployment.
@@ -152,4 +152,4 @@ Model deployment is complete! Now let's use these models to build agents:
 
 ---
 
-[← Previous: Environment Setup](./2-sentinel.md) | [Home](./README.md) | [Next: Agent Development →](./4-agent.md)
+[← Previous: Environment Setup](./2-sentinel-optional.md) | [Home](./README.md) | [Next: Agent Development →](./4-agent.md)
